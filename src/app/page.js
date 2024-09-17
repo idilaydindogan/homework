@@ -3,7 +3,6 @@ import Haberler from "./Components/Haberler";
 import Fiyatlar from "./Components/Fiyatlar";
 import Analizler from "./Components/Analizler";
 import AylıkRaporlar from "./Components/AylıkRaporlar";
-import { FaCartShopping } from "react-icons/fa6";
 
 export default function Home() {
 	return (
