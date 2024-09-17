@@ -1,5 +1,4 @@
 import React from "react";
-import { GrAnnounce } from "react-icons/gr";
 
 const AylıkRaporlar = () => {
 	return (
