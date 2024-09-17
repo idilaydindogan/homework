@@ -6,7 +6,7 @@ import AylıkRaporlar from "./Components/AylıkRaporlar";
 
 export default function Home() {
 	return (
-		<div className="min-h-screen my-10">
+		<div className="min-h-screen max-w-screen-xl m-auto my-10">
 			<div className="flex justify-center px-10">
 				<section className="px-6 space-y-6 w-9/12">
 					<Haberler />
